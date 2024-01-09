@@ -1,0 +1,238 @@
+*{
+  margin: 0;
+  padding: 0;
+  font-family: 'Courier New', Courier, monospace;
+}
+
+/*FOR NAVBAR.JS*/
+
+.tags{
+  background-color:blanchedalmond;
+  padding: 30px;
+  font-size: large;
+}
+
+.tags a {
+  margin: 2px;
+  padding: 5px;
+  text-decoration: none;
+  color: black;
+  font-size: large;
+  display:inline-block;
+  float: inline-end;
+  font-weight: bold;
+}
+
+
+/*FOR HOME.JS*/
+
+.abtus{
+  background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjw08dccO8qptzeZuomUrQMhF4hiYTxpzb9w&usqp=CAU');
+  text-align: justify;
+  background-size: cover;
+  color: white;
+}
+
+.abtus-font-head{
+  text-align: center;
+  padding: 10px;
+  font-size: xx-large;
+}
+
+.abtus-font-para{
+  padding: 25px;
+  margin: 10px 150px 10px 350px;
+}
+
+/*FOR ABOUTUS.JS*/
+
+.abtus{
+  background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjw08dccO8qptzeZuomUrQMhF4hiYTxpzb9w&usqp=CAU');
+  text-align: justify;
+  background-size: cover;
+  color: white;
+}
+
+.abtus-font-head{
+  text-align: center;
+  padding: 10px;
+  font-size: xx-large;
+}
+
+.abtus-font-para{
+  padding: 25px;
+  margin: 10px 150px 10px 350px;
+}
+
+/*FOR MENU.JS*/
+
+.italic{
+  font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  color: brown;
+}
+
+.menu{
+  text-align: center;
+  margin: 15px;
+  padding: 25px;
+  font-size: x-large;
+}
+
+.meal{
+  margin: 10px 0px 10px px;
+  background-color: antiquewhite;
+}
+.dessert{
+  margin: 10px 0px 10px px;
+  background-color: antiquewhite;
+}
+.appetizer{
+  margin: 10px 0px 10px 0px;
+  background-color: antiquewhite;
+}
+.menus{
+  padding: 15px;
+  text-align: center;
+  font-size: x-large;
+}
+
+.ck,.yb,.ml,.bl,.gj,.pza,.gj,.br,.csk,.cld{
+  width: 30%;
+  height: 250px;
+  margin: 20px;
+}
+
+/*FOR BAKHLAVA.JS*/
+
+
+#whole-things{
+  background-color:aliceblue;
+  background-image: url('https://png.pngtree.com/thumb_back/fh260/background/20190221/ourmid/pngtree-food-overlook-food-overhead-breakfast-salad-image_14603.jpg') ;
+}
+
+.side-image{
+  width: 30%;
+  height: 350px;
+  margin: 40px;
+  position: absolute;
+  border-radius: 24px;
+}
+
+#title-left{
+  padding: 20px;
+  margin: 0px 30px 0px 30px;
+}
+
+#brhist{
+  background-color: aliceblue;
+  padding: 80px;
+  margin: 0px 0px 0px 350px;
+}
+
+#brhist_p{
+  font-size: 1em;
+  margin: 5px;
+  padding: 5px;
+}
+
+#bruschist{
+  padding: 5px;
+  margin: 2px;
+}
+
+#ing{
+  font-size: 1em;
+  margin: 5px;
+  padding: 5px;
+}
+
+#ing h3{
+  padding: 5px;
+  margin: 10px;
+}
+
+/*FOR BRUSCHETTA.JS*/
+
+#whole-things{
+  background-color:beige;
+  background-image: url('https://png.pngtree.com/thumb_back/fh260/background/20190221/ourmid/pngtree-food-overlook-food-overhead-breakfast-salad-image_14603.jpg') ;
+}
+
+.side-image{
+  width: 30%;
+  height: 350px;
+  margin: 40px;
+  position: absolute;
+  border-radius: 24px;
+}
+
+#title-left{
+  padding: 20px;
+  margin: 0px 30px 0px 30px;
+}
+
+#brhist{
+  background-color: aliceblue;
+  padding: 80px;
+  margin: 0px 0px 0px 350px;
+}
+
+#brhist_p{
+  font-size: 1em;
+  margin: 5px;
+  padding: 5px;
+}
+
+#bruschist{
+  padding: 5px;
+  margin: 2px;
+}
+
+#ing{
+  font-size: 1em;
+  margin: 5px;
+  padding: 5px;
+}
+
+#ing h3{
+  padding: 5px;
+  margin: 10px;
+}
+
+/*FOR FOOTER.JS*/
+
+footer{
+  background-color:coral;
+  padding: 10px;
+  margin: 0px;
+}
+
+footer a{
+  margin: 25px;
+  padding: 15px;
+  text-decoration: none;
+  color: black;
+  font-size: large;
+  display: inline-block;
+  font-weight: bold;
+}
+
+/*For FAQ*/
+
+.abtus{
+  background-image: url('https://img.freepik.com/premium-photo/white-food-background-with-empty-white-board-tomatoes-free-space-text-top-view-copy-space_503274-1320.jpg');
+  text-align: justify;
+  background-size: cover;
+  color: black;
+}
+
+.abtus-font-head{
+  text-align: center;
+  padding: 10px;
+  font-size: xx-large;
+}
+
+.abtus-font-para{
+  padding: 25px;
+  margin: 10px 150px 10px 350px;
+}
